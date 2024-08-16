@@ -34,7 +34,6 @@ Hey there! I'm Ali, a software engineering student with a passion for creating i
 
 ### 💡 Fun Facts
 - I speak English, French, and Arabic fluently. 🌍
-- When I'm not coding, you'll find me attending hackathons, biking, or experimenting with machine learning models! 🚴‍♂️🤖
 
 ### 🔗 Let's Connect
 - **Email**: alikhasawneh03@gmail.com
