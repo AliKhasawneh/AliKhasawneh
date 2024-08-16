@@ -1,6 +1,6 @@
 # 👨‍💻 Ali Khasawneh
 
-**Software Engineering Student | Frontend Developer | ML Enthusiast**
+**Software Engineering Student @ McGill University**
 
 Hey there! I'm Ali, a software engineering student with a passion for creating impactful and innovative solutions. With hands-on experience in front-end development, software engineering practices, and machine learning, I thrive in dynamic, agile environments where collaboration and creativity are key.
 
