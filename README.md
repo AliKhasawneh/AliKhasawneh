@@ -12,7 +12,7 @@ Hey there! I'm Ali, a software engineering student with a passion for creating i
 
 ### 🌟 Recent Experience
 - **AI Engineering Intern**                                                                                                     
-  *Engineered a recommendation system covering over 25,000 books. Built and deployed an admin dashboard on an AWS EC2 instance.*
+  *Engineered a recommendation system covering over 25,000 books using cosine similarity on a vector database. Built and deployed an admin dashboard on an AWS EC2 instance.*
   
 - **Frontend Developer Intern**  
   *Working on implementing unit testing and designing TypeScript/React front-end components while improving API interactions through contract tests. Embracing the Agile workflow with daily collaboration in a team-focused environment.*
