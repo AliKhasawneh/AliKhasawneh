@@ -2,12 +2,12 @@
 
 **Software Engineering Student @ McGill University**
 
-Hey there! I'm Ali, a software engineering student with a passion for creating impactful and innovative solutions. With hands-on experience in front-end development, software engineering practices, and machine learning, I thrive in dynamic, agile environments where collaboration and creativity are key.
+Hey there! I'm Ali, a software engineering student with a passion for creating impactful and innovative solutions. With hands-on experience in AI, machine learning and full-stack development, I thrive in dynamic, agile environments where collaboration and creativity are key.
 
 ### 🛠️ Skills & Tools
 - **Languages**: Python, Java, JavaScript, TypeScript, C, HTML, CSS, SQL, Bash, RESTful APIs
 - **Frameworks & IDEs**: React, React Native, Spring, Linux, Git, GitHub, JavaFX, Vue, Postgres, MongoDB
-- **Other Tools**: Agile Methodologies, Confluence, GitLab, Jenkins, Docker
+- **Other Tools**: AWS, Agile Methodologies, Confluence, GitLab, Jenkins, Docker
 - **Machine Learning**: Python, SciKit-learn, Pandas, NumPy
 
 ### 🌟 Recent Experience
