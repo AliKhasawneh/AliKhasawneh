@@ -41,15 +41,11 @@ Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive pla
 
 ---
 
-## 📁 Featured Projects
+## 📁 Public Projects
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| **⚽ 5 League Fantasy App** | Cross platform fantasy football system with real time statistics for 3,000 plus players | React, React Native, MongoDB | [Repo](https://github.com/alikhasawneh/5-League-Fantasy) |
-| **🚗 Parking Management System** | Android based parking management app with a Spring Boot backend and Vue front end | Java, Spring Boot, Vue, REST | [Repo](https://github.com/alikhasawneh/Parking-Management-System) |
-| **🗺️ Apocalypse Survival Game** | Graph based survival map game using BFS, DFS and Dijkstra algorithms | Java, Algorithms, OOP | [Repo](https://github.com/alikhasawneh/Apocalypse-Map-Survival) |
-| **🛠️ Personal Portfolio** | Interactive personal website showcasing projects and experience | TypeScript, React, Vite | [Repo](https://github.com/alikhasawneh/Portfolio) |
-| **📦 Miscellaneous Projects** | Smaller experiments, utilities and learning projects | Python, JavaScript, C and more | [GitHub Profile](https://github.com/alikhasawneh) |
+| **🥗 Pantry.Ai ** | Pantry management app with AI assistant | React, TypeScript, Mistral | [Repo]((https://github.com/AliKhasawneh/pantry-app-ai)) |
 
 ---
 
