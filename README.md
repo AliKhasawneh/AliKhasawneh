@@ -45,7 +45,7 @@ Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive pla
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| **🥗 Pantry.AI** | Pantry management app with AI assistant | React, TypeScript, Mistral | [Repo]((https://github.com/AliKhasawneh/pantry-app-ai)) |
+| **🥗 Pantry.AI** | Pantry management app with AI assistant | React, TypeScript, Mistral | [Repo](https://github.com/AliKhasawneh/pantry-app-ai) |
 
 ---
 
