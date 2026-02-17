@@ -50,7 +50,7 @@ Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive pla
 *A social web app for globetrotters to visualize their journeys on an interactive 3D map.*
 * **Features**: 3D interactive globe, social leaderboard, and country tracking.
 * **Tech Stack**: React, Tailwind CSS, Express, Supabase (Auth & Database).
-* **Link to app**: https://venividivici-79d.pages.dev/
+* **Link to app**: https://veni-vidi.app/
 
 ### 🥗 **Pantry.AI**
 * **Function**: Pantry management app with AI assistant.
