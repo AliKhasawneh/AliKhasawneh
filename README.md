@@ -17,7 +17,7 @@ Hey there. I am Ali, a software engineer with a passion for building practical a
 
 ## 🌟 Recent Experience
 
-## **Lead AI Software Engineer**
+### **Lead AI Software Engineer**
 Architected a multilingual RAG system (Llama-3, Supabase) and voice pipeline (Whisper/ElevenLabs) for 500K+ library visitors.
 
 ### **AI Engineering Intern**  
