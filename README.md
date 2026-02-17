@@ -1,6 +1,6 @@
 # 👨‍💻 Ali Khasawneh
 
-**Software Engineering Student at McGill University**
+**Software Engineer McGill University Class of 2026**
 
 Hey there. I am Ali, a software engineer with a passion for building practical and impactful solutions. With hands on experience across AI, machine learning and full stack development, I enjoy working in collaborative, agile environments where creativity and engineering come together.
 
