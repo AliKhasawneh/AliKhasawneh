@@ -2,7 +2,7 @@
 
 **Software Engineering Student at McGill University**
 
-Hey there. I am Ali, a software engineering student with a passion for building practical and impactful solutions. With hands on experience across AI, machine learning and full stack development, I enjoy working in collaborative, agile environments where creativity and engineering come together.
+Hey there. I am Ali, a software engineer with a passion for building practical and impactful solutions. With hands on experience across AI, machine learning and full stack development, I enjoy working in collaborative, agile environments where creativity and engineering come together.
 
 ---
 
@@ -10,12 +10,15 @@ Hey there. I am Ali, a software engineering student with a passion for building 
 
 - **Languages**: Python, Java, JavaScript, TypeScript, C, HTML, CSS, SQL, Bash, RESTful APIs  
 - **Frameworks and IDEs**: React, React Native, Spring, Linux, Git, GitHub, JavaFX, Vue, Postgres, MongoDB  
-- **Other Tools**: AWS, Agile methodologies, Confluence, GitLab, Jenkins, Docker  
+- **Other Tools**: AWS, Agile methodologies, Confluence, GitLab, Jenkins, Docker, Supabase, Groq, TailwindCSS 
 - **Machine Learning**: Python, SciKit learn, Pandas, NumPy  
 
 ---
 
 ## 🌟 Recent Experience
+
+## **Lead AI Software Engineer**
+Architected a multilingual RAG system (Llama-3, Supabase) and voice pipeline (Whisper/ElevenLabs) for 500K+ library visitors.
 
 ### **AI Engineering Intern**  
 Built a book recommendation engine covering more than 25,000 titles using cosine similarity on a vector database. Developed and deployed an admin dashboard on an AWS EC2 instance.
@@ -41,12 +44,21 @@ Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive pla
 
 ---
 
-## 📁 Public Projects
+## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| **🥗 Pantry.AI** | Pantry management app with AI assistant | React, TypeScript, Mistral | [Repo](https://github.com/AliKhasawneh/pantry-app-ai) |
+### 🌎 **Veni Vidi Vici | 3D Travel Tracker**
+*A social web app for globetrotters to visualize their journeys on an interactive 3D map.*
+* **Features**: 3D interactive globe, social leaderboard, and country tracking.
+* **Tech Stack**: React, Tailwind CSS, Express, Supabase (Auth & Database).
 
+### 🥗 **Pantry.AI**
+* **Function**: Pantry management app with AI assistant.
+* **Stack**: React, TypeScript, Mistral. [Repo](https://github.com/AliKhasawneh/pantry-app-ai)
+
+### ⚽ **5 League Fantasy App**
+* **Scale**: 10-member Agile team building a cross-platform system for 3,000+ players.
+* **Stack**: React, React Native, MongoDB.
+* 
 ---
 
 ## 📚 Education
