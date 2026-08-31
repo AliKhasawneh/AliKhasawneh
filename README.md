@@ -31,20 +31,13 @@ Enhanced core product features and improved performance using C++ and React. Con
 
 ---
 
-## 🚀 Notable Projects
+## 🌟 Personal Projects
 
-### **5 League Fantasy App / Web App**  
-Part of a 10 member Agile team building a cross platform football fantasy system in React and React Native, supported by a MongoDB backend storing over 3,000 players with real time statistics.
-
-### **Parking Management System (Android)**  
-Full stack development in a 6 person team. Implemented backend logic in Java Spring Boot and designed the VueJS front end. Integrated both sides through RESTful APIs.
-
-### **Apocalypse Map Survival Game**  
-Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive player navigation and hazard detection.
-
----
-
-## 🌟 Featured Projects
+### 🌳 **Benjamin Tree - Coding Productivity Platform**
+* **Live Tracking**: Track Leetcode progress, track github contributions, track learning from 3rd party sources.
+* **Live Software News Feed**: News feed including top stories in the tech world, daily catchup card deck.
+* **B-tree (Benjaming Tree)**: Interactive productivity tracker, water the tree daily to keep it alive and growing.
+* **Link to app**: [Benjamin Tree](https://main.d1nb3up9vn33pu.amplifyapp.com/)
 
 ### 🌎 **Veni Vidi Vici | 3D Travel Tracker**
 *A social web app for globetrotters to visualize their journeys on an interactive 3D map.*
@@ -56,10 +49,22 @@ Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive pla
 * **Function**: Pantry management app with AI assistant.
 * **Stack**: React, TypeScript, Mistral. [Repo](https://github.com/AliKhasawneh/pantry-app-ai)
 
-### ⚽ **5 League Fantasy App**
-* **Scale**: 10-member Agile team building a cross-platform system for 3,000+ players.
-* **Stack**: React, React Native, MongoDB.
-* 
+---
+
+## 🚀 Academic Projects
+
+### **Gen-AI for Teachers**
+Part of a 6 member Agile team building a platform for grade school mathematics teacher to generate accurate and relevant problems for their student. Trained a model using a RAG system whilst navigating the red tape associated with the education industry. 
+
+### **5 League Fantasy App / Web App**  
+Part of a 10 member Agile team building a cross platform football fantasy system in React and React Native, supported by a MongoDB backend storing over 3,000 players with real time statistics.
+
+### **Parking Management System (Android)**  
+Full stack development in a 6 person team. Implemented backend logic in Java Spring Boot and designed the VueJS front end. Integrated both sides through RESTful APIs.
+
+### **Apocalypse Map Survival Game**  
+Designed a survival game that uses BFS, DFS and Dijkstra algorithms to drive player navigation and hazard detection.
+
 ---
 
 ## 📚 Education
